@@ -24,8 +24,11 @@
 
 ## Represatories that im proud of :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Creative-Chat&title_color=000000&icon_color=ff0000&text_color=cfe2f3&bg_color=ff7200)
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Eid-CountDown&title_color=000000&icon_color=ff0000&text_color=cfe2f3&bg_color=ff7200">
-![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=travel-agency&title_color=000000&icon_color=ff0000&text_color=cfe2f3&bg_color=ff7200)
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=todolist
-&title_color=000000&icon_color=ff0000&text_color=cfe2f3&bg_color=ff7200">
+![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Creative-Chat&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd)
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Eid-CountDown&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd">
+![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=travel-agency&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd)
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=movie-app&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd">
+
+# Nice to meet you
+
+<img src="[https://tenor.com/view/hackerman-programming-coder-coding-welcome-gif-22945378](https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif)https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif"> 
