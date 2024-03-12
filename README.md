@@ -1,4 +1,5 @@
-# About-me <img align="right" src="https://github.com/Ali-Cheikh/Ali-Cheikh/blob/main/img.gif"> 
+# About-me <img align="right" src="https://github.com/Ali-Cheikh/Ali-Cheikh/blob/main/image.png" width=20%>
+>
 >
 > [!NOTE]\
 > My Github Stats.  
@@ -30,3 +31,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=movie-app&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd">
 
 # Nice to meet you
+
+![](https://github.com/Ali-Cheikh/Ali-Cheikh/blob/main/img.gif)
