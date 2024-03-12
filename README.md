@@ -1,4 +1,4 @@
-# About-me <img align="right" src="image.png" width=15%> 
+# About-me <img align="right" src="https://github.com/Ali-Cheikh/Ali-Cheikh/blob/main/img.gif"> 
 >
 > [!NOTE]\
 > My Github Stats.  
