@@ -31,4 +31,4 @@
 
 # Nice to meet you
 
-<img src="[https://tenor.com/view/hackerman-programming-coder-coding-welcome-gif-22945378](https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif)https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif"> 
+<img src="https://tenor.com/view/hackerman-programming-coder-coding-welcome-gif-22945378"> 
