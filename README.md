@@ -30,6 +30,5 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=travel-agency&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd)
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=movie-app&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd">
 
-# Nice to meet you
+<h1 align="center"> Nice to Meet you <img src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/8bfa069e-4c0e-4db5-8cfc-90a938e6a288" width="4%" > !!</h1>
 
-![](https://github.com/Ali-Cheikh/Ali-Cheikh/blob/main/img.gif)
