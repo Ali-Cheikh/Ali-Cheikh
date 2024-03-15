@@ -3,7 +3,7 @@
 >
 > [!IMPORTANT]\
 > My Github Stats.  
-><p><img align='left' src="https://github-readme-stats.vercel.app/api?username=Ali-Cheikh&show_icons=true&theme=dark&locale=en&layout=compact" width="48%" align="right" ><p><a href="https://bit.ly/Aliportfolio" align='center'><img alt="Static Badge" src="https://img.shields.io/badge/Check_My_%20-Portfolio-lightorange"></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Cheikh&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="My github Most used languages" /><a href="mailto:alouloucheikh05@gmail.com" align='center'><img alt="Static Badge" src="https://img.shields.io/badge/My_Gmail_%40-Account-red"/></a><a href="https://www.instagram.com/exe.ali.tor/" align='left'><img alt="Static Badge" src="https://img.shields.io/badge/_My_Instagram%60-Account-lightblue"></a></a></p>
+><p><img align='left' src="https://github-readme-stats.vercel.app/api?username=Ali-Cheikh&show_icons=true&theme=dark&locale=en&layout=compact" width="50%" align="right"><p><a href="https://bit.ly/Aliportfolio" align='center'><img alt="Static Badge" src="https://img.shields.io/badge/Check_My_%20-Portfolio-lightorange"></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Cheikh&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="My github Most used languages" /><a href="mailto:alouloucheikh05@gmail.com" align='center'><img alt="Static Badge" src="https://img.shields.io/badge/My_Gmail_%40-Account-red"/></a><a href="https://www.instagram.com/exe.ali.tor/" align='left'><img alt="Static Badge" src="https://img.shields.io/badge/_My_Instagram%60-Account-lightblue"></a></a></p>
 ><br><br><br><br><br><br>
 >
 >
@@ -27,8 +27,11 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Creative-Chat&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd)
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Eid-CountDown&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd">
-![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=travel-agency&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=Elae-Draws&title_color=000000&icon_color=ff0000&text_color=081358&bg_color=9ab5cd)
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=movie-app&title_color=000000&icon_color=ff0000&text_color=080358&bg_color=9ab5cd">
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Cheikh&repo=travel-agency&title_color=000000&icon_color=ff0010&text_color=080358&bg_color=9ab5cd)
 
 <h1 align="center"> Nice to Meet you <img src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/8bfa069e-4c0e-4db5-8cfc-90a938e6a288" width="4%" > !!</h1>
 
