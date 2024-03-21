@@ -4,7 +4,7 @@
 > [!IMPORTANT]\
 > My Github Stats.  
 ><p><img align='left' src="https://github-readme-stats.vercel.app/api?username=Ali-Cheikh&show_icons=true&theme=dark&locale=en&layout=compact" width="50%" align="right"></p><a href="https://bit.ly/Aliportfolio" align='center'><img alt="Static Badge" src="https://img.shields.io/badge/Check_My_%20-Portfolio-lightorange"></a><a href="https://www.instagram.com/exe.ali.tor/" align='left'><img alt="Static Badge" src="https://img.shields.io/badge/_My_Instagram%20-Account-lightblue"></a><a href="mailto:alouloucheikh05@gmail.com" align='center'><img alt="StaticBadge" src="https://img.shields.io/badge/My_Gmail_%40-Account-red"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Cheikh&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="My github Most used languages" />
-    
+>  
 ><br><br><br>
 >
 
