@@ -38,5 +38,5 @@
 
 >
 >[!WARNING]\
-><br><h1 align="center"> Nice to Meet you <img src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/8bfa069e-4c0e-4db5-8cfc-90a938e6a288" width="4%" > !!</h1>
+><br><h1 align="center"> Nice to Meet you <img src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/8bfa069e-4c0e-4db5-8cfc-90a938e6a288" width="4%" > !!<br> [![](https://visitcount.itsvg.in/api?id=Ali-Cheikh&label=Profile%20Views&color=2&icon=6&pretty=true)](https://visitcount.itsvg.in)</h1>
 >
