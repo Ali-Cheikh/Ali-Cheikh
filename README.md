@@ -38,8 +38,8 @@
 
 >
 >[!WARNING]\
-><br><h1 align="center"> Nice to Meet you <img src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/8bfa069e-4c0e-4db5-8cfc-90a938e6a288" width="4%" > !! [![](https://visitcount.itsvg.in/api?id=Ali-Cheikh&label=People%20Reached&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in) </h1>
+><br><h1 align="center"> Nice to Meet you <img src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/8bfa069e-4c0e-4db5-8cfc-90a938e6a288" width="4%" > !! [![](https://visitcount.itsvg.in/api?id=Ali-Cheikh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in) </h1>
 >
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ali-Cheikh&label=People%20Reached&color=12&icon=2&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Ali-Cheikh&label=Profile%20Views&pretty=false" />
 </a>
