@@ -1,6 +1,6 @@
 # About-me <img align="right" src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/64eb45d3-71cb-402f-8278-1a60e66a55c3" width=15%>
 > Mainly im just a guy who is passionate for learning new stuff and solving problems but in the mean time im also deeply engaged in stuff beyound impressive when it comes to tech yet i find my confort in web development in general while always seeking new apportuinities to learn more and aquire more skills
->
+
 > [!IMPORTANT]\
 > My Github Stats.
 ><p><img align='left' src="https://github-readme-stats.vercel.app/api?username=Ali-Cheikh&show_icons=true&theme=dark&locale=en&layout=compact" align="right"></p>
