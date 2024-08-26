@@ -12,7 +12,8 @@
 > [!TIP]\
 > 🌟 **| For whomever is reading this |** <br>
 > My Work is almost all not fully *Complete/Finished* feel free to open an issue if smt is wrong, and ill try to fix it or get your suggestions.  
-<h3 align="">Email : alouloucheikh05@gmail.com <br> </h3>
+<h3 align="">Email : contact@ali-cheikh.com <br> </h3>
+<h3 align="">portfolio : <a href="www.ali-cheikh.com">Ali-Cheikh.com</a> <br> </h3>
 
 
 
