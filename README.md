@@ -1,5 +1,5 @@
 # About-me <img align="right" src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/64eb45d3-71cb-402f-8278-1a60e66a55c3" width=15%>
-> ## Hi, I'm Ali . I'm a Web Development Geek with a passion for creating innovative solutions through code next to Animations, Games, Software and Robotics. eager for learning new stuff and solving problems, i find my confort in web development in general while always seeking new apportuinities to learn more and aquire more skills
+> ## Hi, I'm Ali! I'm a passionate Web Development enthusiast with a knack for creating innovative solutions through code. Beyond web development, I also have a strong interest in animations, games, software, and robotics. Always eager to learn and solve problems, I find my comfort in web development while continually seeking new opportunities to expand my skills and knowledge.
 
 > [!IMPORTANT]\
 > My Github Stats.
