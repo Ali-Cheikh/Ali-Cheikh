@@ -1,4 +1,4 @@
-# About-me <img align="right" src="https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/64eb45d3-71cb-402f-8278-1a60e66a55c3" width=15%>
+# About-me <img align="right" src="[https://github.com/Ali-Cheikh/Ali-Cheikh/assets/57839971/64eb45d3-71cb-402f-8278-1a60e66a55c3](https://cdn.discordapp.com/attachments/1109085677305479188/1317092332176412702/wink.png?ex=675d6d52&is=675c1bd2&hm=0bf15622c3d6e40777e1ccd63e01d718d1905ed73be481edf400bfa5ebdd061e&)" width=15%>
 > ## Hi, I'm Ali! I'm a passionate Web Development enthusiast with a knack for creating innovative solutions through code. Beyond web development, I also have a strong interest in animations, games, software, and robotics. Always eager to learn and solve problems, I find my comfort in web development while continually seeking new opportunities to expand my skills and knowledge.
 
 > [!IMPORTANT]\
