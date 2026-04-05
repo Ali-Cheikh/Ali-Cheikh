@@ -4,24 +4,11 @@ I build **web apps, tools, and experiments** — sometimes polished, sometimes j
 Curiosity drives me: I like shipping things, even if they’re not “finished.”
 
 ---
-
-## 🛠 Projects
-
-- **[EEE-Store-vol.2](https://github.com/Ali-Cheikh/EEE-Store-vol.2)** – Simple web store with cart & product details (a tutorial project)
-- **[GCCE](https://github.com/Ali-Cheikh/GCCE)** – GitHub contribution calendar visualizer  
-- **[SEO](https://github.com/Ali-Cheikh/SEO)** – Essential SEO elements & meta tags for modern websites  
-- **[scape.js](https://github.com/Ali-Cheikh/scape.js)** – JS package for animated background shapes/images  
-- **[warator](https://github.com/Ali-Cheikh/warator)** – Generate WhatsApp custom links like `wa.me`  
-- **[InkLink](https://github.com/Ali-Cheikh/InkLink)** – Draw, set, download, share  
-
-…and more in [my repos](https://github.com/Ali-Cheikh?tab=repositories).
-
 ---
 
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Cheikh&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Ali-Cheikh&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
