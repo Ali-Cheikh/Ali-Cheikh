@@ -12,8 +12,7 @@ I build practical digital products and teach young people how to build with tech
 </div>
 
 - Top 15 selected in **Live The Residency Delta** (2025) out of 1,500 applicants.
-- **TEDx Speaker** (2023) on technology and learning for young people.
-- **Harvard Business Impact Education - Verified Educator** (2024).
+- **Harvard Business Impact Education - Verified Educator** (2025).
 - Delivered **50+ web solutions** as a freelance developer.
 
 ## Current Focus & Experience
@@ -34,7 +33,7 @@ Youth tech education: coding clubs, workshops, and hackathons.
 ### Experience Snapshot
 
 **Technical Co-Founder - BlooLabb** (2025)  
-**Full Stack Developer - LingoLand / Lingoville** (Jun 2024 - Ongoing)  
+**Full Stack Developer - LingoLand / Lingoville** (Jun 2024 - Jan 2026)  
 **Software Developer Intern - BinetCom** (Jul 2024 - Sep 2024)  
 **Freelance Web Developer - Self-Employed** (2022 - Present)  
 **Tech Club Manager & Youth Mentor - Det Development** (Sep 2020 - Dec 2023)
@@ -74,7 +73,6 @@ Youth tech education: coding clubs, workshops, and hackathons.
   <img src="https://img.shields.io/github/followers/Ali-Cheikh?style=for-the-badge&logo=github&label=Followers&color=1f2937" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Ali-Cheikh?style=for-the-badge&logo=github&label=Stars&color=f59e0b" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="Open to collaboration" />
-  <img src="https://img.shields.io/badge/Built%20in-Tunisia-e11d48?style=for-the-badge" alt="Built in Tunisia" />
 </p>
 
 </p>
