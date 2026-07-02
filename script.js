@@ -127,7 +127,7 @@
         "Teaching resources for Scratch, MIT App Inventor, and robotics learners."
       ],
       resumeFile: "Ali_Cheikh_Formateur_CV.pdf",
-      email: "ali@ali-cheikh.com",
+      email: "contact@alicheikh.tn",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Formateur",
