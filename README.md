@@ -32,7 +32,7 @@ Youth tech education: coding clubs, workshops, and hackathons.
 
 ### Experience Snapshot
 
-**Technical Co-Founder - BlooLabb** (2025)  
+**Technical Co-Founder - BlooLabb** (2025-2026)  
 **Full Stack Developer - LingoLand / Lingoville** (Jun 2024 - Jan 2026)  
 **Software Developer Intern - BinetCom** (Jul 2024 - Sep 2024)  
 **Freelance Web Developer - Self-Employed** (2022 - Present)  
