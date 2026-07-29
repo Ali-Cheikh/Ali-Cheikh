@@ -2,7 +2,8 @@
 # Ali Cheikh
 
 Full-Stack Developer & Product Builder  
-Technology Educator & Youth STEM Formateur
+Technology Educator & Youth STEM Formateur <br>
+Business Administration Junior at International School Of Business `NAPU` 
 
 I build practical digital products and teach young people how to build with tech.
 <div>
