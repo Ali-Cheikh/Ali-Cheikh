@@ -1,0 +1,69 @@
+name: traffic2badge
+on:
+  push:
+  schedule:
+    - cron: '1 0 * * *'
+  workflow_dispatch: # Allows you to manually click-to-run from the UI
+
+jobs:
+  run:
+    name: Make GitHub Traffic to Badge
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Get Repo List
+        id: repo
+        uses: yi-Xu-0100/repo-list-generator@v1
+
+      - name: Get Commit Message
+        id: message
+        uses: actions/github-script@v7
+        env:
+          FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
+        with:
+          result-encoding: string
+          script: |
+            var message = `${process.env.FULL_COMMIT_MESSAGE}`;
+            core.info(message);
+            if (message != 'undefined' && message != '') return message;
+            var time = new Date(Date.now()).toISOString();
+            core.info(time);
+            return `Get traffic data at ${time}`;
+
+      - name: Set traffic
+        id: traffic
+        uses: yi-Xu-0100/traffic-to-badge@v1
+        with:
+          my_token: ${{ secrets.TRAFFIC_TOKEN }}
+          static_list: '${{ steps.repo.outputs.repoList }}'
+          traffic_branch: traffic
+          # Explicitly list out all targets to force the engine to generate every variation possible
+          targets: "views, clones, views_per_week, clones_per_week, total_views, total_clones, total_views_per_week, total_clones_per_week, week"
+          # Distinct color themes for your dashboard layers
+          views_color: "brightgreen"
+          clones_color: "blue"
+          views_week_color: "green"
+          clones_week_color: "royalblue"
+          total_views_color: "yellow"
+          total_clones_color: "orange"
+          total_views_week_color: "yellow"
+          total_clones_week_color: "purple"
+          logo: github # FIXED: Replaced invalid web URL with official icon slug
+          year: 2026
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
+          publish_dir: ${{ steps.traffic.outputs.traffic_path }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          full_commit_message: ${{ steps.message.outputs.result }}
+
+      - name: Show traffic data
+        run: |
+          cd ${{ steps.traffic.outputs.traffic_path }}
+          ls -R
