@@ -73,7 +73,7 @@ Youth tech education: coding clubs, workshops, and hackathons.
 <p>
   <img src="https://img.shields.io/github/followers/Ali-Cheikh?style=for-the-badge&logo=github&label=Followers&color=1f2937" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Ali-Cheikh?style=for-the-badge&logo=github&label=Stars&color=f59e0b" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="Open to collaboration" />
+   <a href="mailto:contact@alicheikh.tn"><img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="Open to collaboration" /></a>
 </p>
 
 </p>
@@ -82,8 +82,9 @@ Youth tech education: coding clubs, workshops, and hackathons.
 ## Contact
 
 <p align="center">
-
-[contact@ali-cheikh.com](mailto:contact@ali-cheikh.com) • [ali-cheikh.com](https://ali-cheikh.com) • [linkedin.com/in/ali-cheikh](https://www.linkedin.com/in/ali-cheikh)
+  
+[My Tccard](https://card.tccards.tn/@Ali) • 
+[Ali Cheikh on Linkedin](https://www.linkedin.com/in/ali-cheikh) *ps i dont  use it*
 
 <img src="https://komarev.com/ghpvc/?username=Ali-Cheikh&style=flat-square&color=3b82f6" alt="Profile views" />
 
