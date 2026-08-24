@@ -15,7 +15,7 @@ jobs:
 
       - name: Get Repo List
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@v1.4.0
+        uses: yi-Xu-0100/repo-list-generator@v0.4.1
 
       - name: Get Commit Message
         id: message
@@ -34,12 +34,14 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.4.0 # FIXED: Using exact release version
+        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
           traffic_branch: traffic
+          # Explicitly list out all targets to force the engine to generate every variation possible
           targets: "views, clones, views_per_week, clones_per_week, total_views, total_clones, total_views_per_week, total_clones_per_week, week"
+          # Distinct color themes for your dashboard layers
           views_color: "brightgreen"
           clones_color: "blue"
           views_week_color: "green"
@@ -49,6 +51,7 @@ jobs:
           total_views_week_color: "yellow"
           total_clones_week_color: "purple"
           logo: "https://github.com"
+          year: 2026
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
