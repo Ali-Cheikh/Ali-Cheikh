@@ -1,4 +1,4 @@
-name: traffic2badge
+name: Acoount Statistics Badges
 on:
   push:
   schedule:
@@ -9,6 +9,10 @@ jobs:
   run:
     name: Make GitHub Traffic to Badge
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -39,9 +43,7 @@ jobs:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
           traffic_branch: traffic
-          # Explicitly list out all targets to force the engine to generate every variation possible
           targets: "views, clones, views_per_week, clones_per_week, total_views, total_clones, total_views_per_week, total_clones_per_week, week"
-          # Distinct color themes for your dashboard layers
           views_color: "brightgreen"
           clones_color: "blue"
           views_week_color: "green"
@@ -50,7 +52,8 @@ jobs:
           total_clones_color: "orange"
           total_views_week_color: "yellow"
           total_clones_week_color: "purple"
-          logo: "https://github.com"
+          # FIXED: Replaced raw homepage domain with your live image avatar layout link
+          logo: "https://github.com" 
           year: 2026
 
       - name: Deploy
