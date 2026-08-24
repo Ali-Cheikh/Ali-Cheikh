@@ -1,0 +1,23 @@
+name: Global Traffic Engine
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Triggers autonomously every night
+  workflow_dispatch: # Allows manual click-to-run testing
+
+jobs:
+  sync-all-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Account Stats
+        uses: sangonzal/traffic-to-badge@v4
+        with:
+          my_token: ${{ secrets.TRAFFIC_TOKEN }}
+          static_list: ""          # Leaving blank forces it to dynamically grab ALL public repos
+          traffic_branch: "traffic" # Isolates data storage onto a clean background branch
+          views_color: "brightgreen"
+          clones_color: "orange"
+          total_views_color: "blue
