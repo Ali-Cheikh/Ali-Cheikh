@@ -20,4 +20,4 @@ jobs:
           traffic_branch: "traffic" # Isolates data storage onto a clean background branch
           views_color: "brightgreen"
           clones_color: "orange"
-          total_views_color: "blue
+          total_views_color: "blue"
