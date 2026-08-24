@@ -1,4 +1,4 @@
-name: Acoount Statistics Badges
+name: traffic2badge
 on:
   push:
   schedule:
@@ -43,7 +43,6 @@ jobs:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
           traffic_branch: traffic
-          targets: "views, clones, views_per_week, clones_per_week, total_views, total_clones, total_views_per_week, total_clones_per_week, week"
           views_color: "brightgreen"
           clones_color: "blue"
           views_week_color: "green"
@@ -52,8 +51,7 @@ jobs:
           total_clones_color: "orange"
           total_views_week_color: "yellow"
           total_clones_week_color: "purple"
-          # FIXED: Replaced raw homepage domain with your live image avatar layout link
-          logo: "https://github.com" 
+          logo: github
           year: 2026
 
       - name: Deploy
