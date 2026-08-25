@@ -1654,36 +1654,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
 ```
 
-## 📚 [news-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-news-agent)
-
-### 📷 Badges without link of [news-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-news-agent)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [news-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-news-agent)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-news-agent/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-news-agent)
-```
-
 ## 📚 [NFC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-NFC)
 
 ### 📷 Badges without link of [NFC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-NFC)
@@ -1742,6 +1712,36 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
+```
+
+## 📚 [nosey-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nosey-agent)
+
+### 📷 Badges without link of [nosey-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nosey-agent)
+
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [nosey-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nosey-agent)
+
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+
+```markdown
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nosey-agent/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nosey-agent)
 ```
 
 ## 📚 [PIG](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-PIG)
