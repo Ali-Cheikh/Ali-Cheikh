@@ -47,10 +47,11 @@ Youth tech education: coding clubs, workshops, and hackathons.
 
 ## Projects
 
-[BlooLabb](https://bloolabb.com) - AI-powered learning platform for Tunisian youth.  
+**BlooLabb** - AI-powered learning platform for Tunisian youth.  
 **Translation OCR + LLM Debate System** - experimental OCR collaboration pipeline.  
 **Warehouse OCR System (Energen)** - reduced manual search/input workload by around 80%.  
 **tccards.tn** - NFC digital business card solution.
+**Nosey** - AI RSS News Agent
 
 </p>
 
