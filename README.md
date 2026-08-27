@@ -77,6 +77,4 @@ Youth tech education: coding clubs, workshops, and hackathons.
 [My Tccard](https://card.tccards.tn/@Ali) • 
 [Ali Cheikh on Linkedin](https://www.linkedin.com/in/ali-cheikh) *ps i dont use it*
 
-<img src="https://komarev.com/ghpvc/?username=Ali-Cheikh&style=flat-square&color=3b82f6" alt="Profile views" />
-
 </p>
