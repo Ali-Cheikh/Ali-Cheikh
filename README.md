@@ -51,7 +51,7 @@ Youth tech education: coding clubs, workshops, and hackathons.
 **Translation OCR + LLM Debate System** - experimental OCR collaboration pipeline.  
 **Warehouse OCR System (Energen)** - reduced manual search/input workload by around 80%.  
 **tccards.tn** - NFC digital business card solution.
-**Nosey** - AI RSS News Agent
+**Nosey** - AI RSS News Agent.
 
 </p>
 
