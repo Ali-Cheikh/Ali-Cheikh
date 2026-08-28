@@ -2,12 +2,18 @@
   {
     "path": "/Ali-Cheikh/nosey-agent",
     "title": "Overview",
-    "count": 14,
-    "uniques": 5
+    "count": 18,
+    "uniques": 6
   },
   {
     "path": "/Ali-Cheikh/nosey-agent/blob/main/readme.md",
     "title": "/blob/main/readme.md",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/edit/main/readme.md",
+    "title": "/edit/main/readme.md",
     "count": 9,
     "uniques": 1
   },
@@ -16,12 +22,6 @@
     "title": "/blob/main/setup.md",
     "count": 8,
     "uniques": 2
-  },
-  {
-    "path": "/Ali-Cheikh/nosey-agent/edit/main/readme.md",
-    "title": "/edit/main/readme.md",
-    "count": 7,
-    "uniques": 1
   },
   {
     "path": "/Ali-Cheikh/news-agent",
