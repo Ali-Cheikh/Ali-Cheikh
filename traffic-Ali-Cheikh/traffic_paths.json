@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/Ali-Cheikh/Ali-Cheikh/tree/main",
+    "title": "/tree/main",
+    "count": 12,
+    "uniques": 1
+  },
+  {
     "path": "/Ali-Cheikh/Ali-Cheikh/actions/workflows/account stat.yml",
     "title": "/actions/workflows/account stat.yml",
     "count": 10,
@@ -32,12 +38,6 @@
   {
     "path": "/Ali-Cheikh/Ali-Cheikh/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/Ali-Cheikh/tree/main",
-    "title": "/tree/main",
     "count": 10,
     "uniques": 1
   },
