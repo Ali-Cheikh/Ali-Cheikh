@@ -1,10 +1,10 @@
 # Ali Cheikh
 
 Full-Stack Developer & Product Builder  
-Technology Educator & Youth STEM Formateur <br>
+Technology Educator & Investors Scout<br>
 Business Administration Junior at International School Of Business `NAPU` 
 
-I build practical digital products and teach young people how to build with tech.
+I build practical digital products and teach young professionals how to build/use tech solutions.
 <div>
 
 ## Quick Highlights
@@ -74,7 +74,7 @@ Youth tech education: coding clubs, workshops, and hackathons.
 
 <p align="center">
   
-[My Tccard](https://card.tccards.tn/@Ali) • 
+[My tccard.tn](https://card.tccards.tn/@Ali) • 
 [Ali Cheikh on Linkedin](https://www.linkedin.com/in/ali-cheikh) *ps i dont use it*
 
 </p>
