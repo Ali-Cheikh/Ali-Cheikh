@@ -2,42 +2,18 @@
   {
     "path": "/Ali-Cheikh/ramadan-duo",
     "title": "Overview",
-    "count": 5,
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/Ali-Cheikh/ramadan-duo/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 4,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/Ali-Cheikh/ramadan-duo/edit/main/README.md",
     "title": "/edit/main/README.md",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ramadan-duo/blob/main/SETUP_GUIDE.md",
-    "title": "/blob/main/SETUP_GUIDE.md",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ramadan-duo/blob/main/CRON_SETUP.md",
-    "title": "/blob/main/CRON_SETUP.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ramadan-duo/blob/main/DEPLOYMENT.md",
-    "title": "/blob/main/DEPLOYMENT.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ramadan-duo/blob/main/components.json",
-    "title": "/blob/main/components.json",
     "count": 1,
     "uniques": 1
   }
