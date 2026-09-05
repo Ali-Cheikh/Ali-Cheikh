@@ -2,8 +2,8 @@
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk",
     "title": "Overview",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main",
@@ -20,6 +20,12 @@
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk/blob/a973319f2324e98301997f416e5b366e9f3fef08/img/preview-bg.png",
     "title": "/blob/a973319f2324e98301997f416e5b366e9f3fef08/img/preview-bg.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/Fight-ME-Monk/blob/main/img/preview-bg.png",
+    "title": "/blob/main/img/preview-bg.png",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main/.github",
     "title": "/tree/main/.github",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
     "count": 1,
     "uniques": 1
   }

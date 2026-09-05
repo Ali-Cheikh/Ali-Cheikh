@@ -2,8 +2,20 @@
   {
     "path": "/Ali-Cheikh/ship-shape-jobs",
     "title": "Overview",
-    "count": 8,
-    "uniques": 5
+    "count": 9,
+    "uniques": 6
+  },
+  {
+    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main",
+    "title": "/tree/main",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src",
+    "title": "/tree/main/src",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/eslint.config.js",
@@ -18,9 +30,21 @@
     "uniques": 1
   },
   {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main",
-    "title": "/tree/main",
+    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src/server",
+    "title": "/tree/main/src/server",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/package.json",
+    "title": "/blob/main/package.json",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/src/server/og-image.tsx",
+    "title": "/blob/main/src/server/og-image.tsx",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -32,24 +56,6 @@
   {
     "path": "/Ali-Cheikh/ship-shape-jobs/edit/main/README.md",
     "title": "/edit/main/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/edit/main/eslint.config.js",
-    "title": "/edit/main/eslint.config.js",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/edit/main/tsconfig.json",
-    "title": "/edit/main/tsconfig.json",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src",
-    "title": "/tree/main/src",
     "count": 1,
     "uniques": 1
   }
