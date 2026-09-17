@@ -1,15 +1,15 @@
 [
   {
+    "path": "/Ali-Cheikh/ship-shape-jobs",
+    "title": "Overview",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src",
     "title": "/tree/main/src",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs",
-    "title": "Overview",
-    "count": 4,
-    "uniques": 4
   },
   {
     "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src/server",
