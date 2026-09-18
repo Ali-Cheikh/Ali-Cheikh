@@ -2,14 +2,8 @@
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk",
     "title": "Overview",
-    "count": 9,
-    "uniques": 8
-  },
-  {
-    "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main",
-    "title": "/tree/main",
-    "count": 2,
-    "uniques": 1
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk/blob/main/img/preview-bg.png",
@@ -20,24 +14,6 @@
   {
     "path": "/Ali-Cheikh/Fight-ME-Monk/releases/tag/0000-v.1",
     "title": "/releases/tag/0000-v.1",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main/.anima",
-    "title": "/tree/main/.anima",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main/.github",
-    "title": "/tree/main/.github",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/Fight-ME-Monk/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
     "count": 1,
     "uniques": 1
   }
