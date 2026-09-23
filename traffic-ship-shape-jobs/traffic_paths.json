@@ -2,60 +2,30 @@
   {
     "path": "/Ali-Cheikh/ship-shape-jobs",
     "title": "Overview",
-    "count": 7,
+    "count": 9,
     "uniques": 6
   },
   {
-    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/src/components/admin/shared.tsx",
-    "title": "/blob/main/src/components/admin/shared.tsx",
-    "count": 2,
+    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/public/bg-images.png",
+    "title": "/blob/main/public/bg-images.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/ship-shape-jobs/labels",
+    "title": "/labels",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/public",
+    "title": "/tree/main/public",
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src",
     "title": "/tree/main/src",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src/components/admin",
-    "title": "/tree/main/src/components/admin",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src/routes",
-    "title": "/tree/main/src/routes",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src/server",
-    "title": "/tree/main/src/server",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/src/components/admin/AdminPage.tsx",
-    "title": "/blob/main/src/components/admin/AdminPage.tsx",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/src/components/admin/Dashboard.tsx",
-    "title": "/blob/main/src/components/admin/Dashboard.tsx",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/src/routes/admin.tsx",
-    "title": "/blob/main/src/routes/admin.tsx",
     "count": 1,
     "uniques": 1
   }
