@@ -22,8 +22,11 @@
     engineer: makeIconDataUrl(
       "<defs><linearGradient id='g2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#ff5b57'/><stop offset='100%' stop-color='#496bff'/></linearGradient></defs><circle cx='60' cy='60' r='42' fill='rgba(10,12,22,0.90)' stroke='url(#g2)' stroke-width='5'/><path d='M38 58h12l-6 10h12' fill='none' stroke='#ff8a4c' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/><path d='M84 58H72l6 10H66' fill='none' stroke='#7a3cff' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/><circle cx='60' cy='58' r='5' fill='#eef1ff'/><path d='M52 74h16' stroke='#eef1ff' stroke-width='5' stroke-linecap='round'/>"
     ),
-    formateur: makeIconDataUrl(
-      "<defs><linearGradient id='g3' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#ff8a4c'/><stop offset='100%' stop-color='#7a3cff'/></linearGradient></defs><circle cx='60' cy='60' r='42' fill='rgba(10,12,22,0.90)' stroke='url(#g3)' stroke-width='5'/><circle cx='43' cy='44' r='8' fill='#eef1ff'/><circle cx='78' cy='49' r='6' fill='#eef1ff'/><path d='M43 52v20' stroke='#eef1ff' stroke-width='6' stroke-linecap='round'/><path d='M78 55v16' stroke='#eef1ff' stroke-width='5' stroke-linecap='round'/><path d='M43 60l13 8' stroke='#eef1ff' stroke-width='5' stroke-linecap='round'/><path d='M78 63l-9 5' stroke='#eef1ff' stroke-width='4.5' stroke-linecap='round'/><path d='M56 68l13 0' stroke='#ff8a4c' stroke-width='4.5' stroke-linecap='round'/><path d='M41 73l-7 11' stroke='#496bff' stroke-width='5' stroke-linecap='round'/><path d='M45 73l7 11' stroke='#496bff' stroke-width='5' stroke-linecap='round'/><path d='M76 71l-6 10' stroke='#7a3cff' stroke-width='4.5' stroke-linecap='round'/><path d='M80 71l7 10' stroke='#7a3cff' stroke-width='4.5' stroke-linecap='round'/>"
+    systems: makeIconDataUrl(
+      "<defs><linearGradient id='g4' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#496bff'/><stop offset='100%' stop-color='#7a3cff'/></linearGradient></defs><circle cx='60' cy='60' r='42' fill='rgba(10,12,22,0.90)' stroke='url(#g4)' stroke-width='5'/><path d='M60 38v44M38 60h44M45 45l30 30M75 45l-30 30' stroke='#eef1ff' stroke-width='4' stroke-linecap='round'/><circle cx='60' cy='60' r='10' fill='none' stroke='#ff8a4c' stroke-width='5'/>"
+    ),
+    general: makeIconDataUrl(
+      "<defs><linearGradient id='g5' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#ff8a4c'/><stop offset='100%' stop-color='#496bff'/></linearGradient></defs><rect x='34' y='24' width='52' height='72' rx='8' fill='rgba(10,12,22,0.92)' stroke='url(#g5)' stroke-width='5'/><path d='M46 44h28M46 56h28M46 68h18' stroke='#eef1ff' stroke-width='5' stroke-linecap='round'/>"
     )
   };
 
@@ -46,93 +49,147 @@
     engineer: {
       role: "Full-Stack Developer & Product Builder",
       intro:
-        "Tunisian entrepreneur and developer building practical tech solutions for community impact. Selected for Live The Residency - Delta (top 15 of 1,500 applicants). Co-founded BlooLabb, an AI-powered learning platform for Tunisian youth.",
+        "Full-stack developer and entrepreneur building production web apps, AI tools, and internal systems end to end. Selected for Live The Residency - Delta (top 15 of 1,500 applicants); co-founded BlooLab, an AI-powered learning platform for Tunisian youth.",
       profile:
-        "Product-focused full-stack developer experienced in sustainable solutions for local businesses and education initiatives across Tunisia.",
+        "Comfortable owning a feature from architecture to deployment, across frontend, backend, and the automation glue in between.",
       focus: [
-        "Design and ship full stack products from sketches and prototypes to MVP structures.",
-        "Build AI-powered learning and automation systems for practical use.",
-        "Develop internal tools for content, student progress, and operations tracking.",
-        "Automate business workflows and reduce repetitive manual tasks."
+        "Build production web apps, AI tools, and internal systems end to end.",
+        "Own features from architecture to deployment across frontend, backend, and automation.",
+        "Architect platforms with video delivery, quizzes, AI tutoring, CMS, and progress tracking.",
+        "Integrate Google APIs and improve SEO and web performance."
       ],
       skills: [
-        "Frontend: React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3/Sass, JavaScript (ES6+).",
+        "Frontend: React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, HTML5, CSS3/Sass.",
         "Backend: Node.js, Express, REST APIs, PHP.",
-        "Database: MySQL, Supabase, Firebase, Google Drive API.",
-        "AI & ML: OpenRouter, LLM agents, prompt engineering, and agent architectures.",
-        "Tools: Git, GitHub, Vercel, Cloudflare, CI/CD basics, SEO, and web performance."
+        "Database: MySQL, Supabase, Firebase, Google Sheets as lightweight DB.",
+        "AI & LLM: OpenAI & Anthropic APIs, Claude in Excel, OpenRouter, LLM agents, prompt engineering, agent architectures, OpenClaw.",
+        "Automation: Google Apps Script, Google Sheets automation, workflow & reporting automation.",
+        "DevOps & Tools: Git, GitHub, Vercel, Cloudflare, CI/CD basics.",
+        "Other: UI/UX design, SEO, web performance, networking/security basics, ethical hacking foundations."
       ],
       experience: [
-        "Technical Co-Founder - BlooLabb (2025): Co-founded an online learning platform and built internal management and progress tools.",
-        "Software Developer Intern - BinetCom (Jul 2024 - Sep 2024): Built a public website, invoicing system, dashboards, and lightweight APIs.",
-        "Full Stack Developer - LingoLand / Lingoville (Jun 2024 - Ongoing): Built prototypes, dashboards, and student flows.",
-        "Freelance Web Developer - Self-Employed (2022 - Present): Delivered 50+ web solutions across static and dynamic apps.",
-        "Backend Developer - i-startup Co-Work Solutions (Jan 2021 - Jun 2022): Automated Google Apps Script and client operations workflows."
+        "IT & Recruitment Systems Administrator - Tunisia Oil & Gas Services: Built internal management system for workforce job applications and interview scheduling; managed job postings, LinkedIn presence, and recruitment communications; automated project report generation.",
+        "Technical Co-Founder - BlooLab, Live The Residency - Delta Programme (Batch 2): Built AI-powered kids learning platform selected among 15 finalists from 1,500 applicants; architected video delivery, quizzes, AI tutor, CMS, and progress tracking.",
+        "Full Stack Developer - LingolAnd / Lingol: Designed platform architecture and MVP for an edtech product; built dashboards and student enrollment flows; integrated Google APIs and implemented SEO/performance improvements.",
+        "Software Developer Intern - BinetCom: Built a public website and internal invoicing system; developed custom dashboards and REST APIs.",
+        "Backend Developer - i-startup - Co-Work Solutions: Developed CMS dashboards for managing co-working spaces, migrating off spreadsheet-based databases; automated business workflows with Google Apps Script and built email marketing/client management tools."
       ],
       impact: [
-        "Selected in Live The Residency Delta as top 15 out of 1,500 applicants.",
-        "Built a warehouse OCR system that reduced manual search and input workload by around 80%.",
-        "Delivered 50+ client solutions and automation workflows across different sectors.",
-        "Mentored high school students through coding workshops and collaborative projects."
+        "Selected for Live The Residency - Delta as top 15 out of 1,500 applicants.",
+        "Co-founded BlooLab, an AI-powered learning platform for Tunisian youth.",
+        "Built Warehouse OCR System (Energen) reducing manual workload by 80%.",
+        "Delivered production web apps, AI tools, and internal systems end to end."
       ],
       projects: [
-        "BlooLabb AI Learning Platform (2025) - learning platform for kids with modern architecture.",
-        "Translation OCR + LLM Debate System (2025) - experimental OCR pipeline with dual-LLM collaboration.",
-        "Warehouse OCR System for Energen (2024 - 2025) - Tesseract.js + Apps Script workflow.",
-        "tccards.tn NFC Business Cards (2025) - digital business card platform focused on sustainability."
+        "BlooLab AI Learning Platform - AI-powered learning platform for kids with modern stack and agent-based tutoring.",
+        "Translation OCR + LLM Debate System - Experimental OCR pipeline with dual-LLM debate mechanism.",
+        "Warehouse OCR System (Energen) - Search-and-register OCR system with Tesseract.js and Apps Script, reducing manual workload by 80%.",
+        "tccards.tn - NFC Business Cards - Digital business card platform reducing paper waste.",
+        "Workforce Management System - Internal system for job applications, interview scheduling, and job-posting management.",
+        "Other projects: Admin/CRM dashboard; habit tracking app with calendar UI and notifications; API integration project with AI gateway, messaging bots, and maps; scraper/data pipeline; e-commerce storefront with cart, checkout, and inventory sync."
+      ],
+      resumeFile: "Ali_Cheikh_CV_FullStack_Dev.pdf",
+      email: "contact@ali-cheikh.com",
+      phoneDisplay: "+216 90 725 434",
+      phoneHref: "+21690725434",
+      metaTitle: "Ali Cheikh | Full-Stack Developer & Product Builder",
+      metaDescription:
+        "Full-stack developer and product builder profile for Ali Cheikh, with production web apps, AI tools, automation, and resume access."
+    },
+    systems: {
+      role: "Systems Administrator & Business Automation Specialist",
+      intro:
+        "Systems administrator and technical operator with a developer's background — builds the internal tools he then administers. Experience spans HR-tech and recruitment systems, IT administration, reporting automation, and cross-functional project support.",
+      profile:
+        "Selected for Live The Residency - Delta (top 15 of 1,500 applicants) for co-founding an AI-powered learning platform.",
+      focus: [
+        "Build and administer internal tools, HR-tech systems, and workflow automation.",
+        "Own IT administration, user/access management, technical support, and security basics.",
+        "Automate reporting, data entry, and business workflows using Google Apps Script and Sheets.",
+        "Support recruitment systems: applicant tracking, interview scheduling, job posting, and LinkedIn management."
+      ],
+      skills: [
+        "Frontend: React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, HTML5, CSS3/Sass.",
+        "Backend: Node.js, Express, REST APIs, PHP.",
+        "Database: MySQL, Supabase, Firebase, Google Sheets as lightweight DB.",
+        "AI & LLM Tooling: OpenAI & Anthropic APIs, Claude in Excel, OpenRouter, LLM agents, prompt engineering, agent architectures, OpenClaw.",
+        "Automation: Google Apps Script, Google Sheets automation, workflow & reporting automation.",
+        "DevOps & Tools: Git, GitHub, Vercel, Cloudflare, CI/CD basics.",
+        "Networking & Security Basics: Core networking fundamentals, ethical hacking foundations.",
+        "Other: UI/UX design, SEO, web performance."
+      ],
+      experience: [
+        "IT & Recruitment Systems Administrator - Tunisia Oil & Gas Services: Designed and administered internal management system for workforce job applications and interview scheduling; owned job postings, LinkedIn presence, and recruitment media/communications; acted as general IT administrator and automated project report generation.",
+        "Technical Co-Founder - Bloolabb, Live The Residency - Delta Programme (Batch 2): Co-founded and operated AI-powered kids learning platform selected among 15 finalists from 1,500 applicants; owned platform operations, content management, progress tracking, and internal tooling.",
+        "Backend Developer & Workflow Automation - i-startup - Co-Work Solutions: Migrated co-working space management off spreadsheets onto a CMS dashboard; automated recurring business workflows with Google Apps Script; built email marketing and client management tools.",
+        "Software Developer Intern - BinetCom: Built internal invoicing system and admin dashboards; supported internal operations with custom REST APIs.",
+        "Full Stack Developer - Lingoland / Lingoville: Built dashboards and enrollment/student-management flows for an edtech platform."
+      ],
+      impact: [
+        "Selected for Live The Residency - Delta (top 15 of 1,500 applicants).",
+        "Automated project reporting, replacing manual reporting workflows.",
+        "Reduced manual warehouse workload by 80% with OCR system.",
+        "Built internal tools for HR workflows, inventory, helpdesk, access/permissions, and Google Workspace automation."
+      ],
+      projects: [
+        "Workforce Management System (TOGS) - Application, interview, and job-posting management system for hand-force recruitment.",
+        "Warehouse OCR System (Energen) 2024-2025 - Search-and-register OCR system reducing manual workload by 80%.",
+        "Bloolabb AI Learning Platform - AI-powered learning platform for kids with internal content and progress-tracking tools.",
+        "tccards.tn - NFC Business Cards - Digital business card platform and sustainable networking solution.",
+        "Other projects: HR workflow tool (checklists, document collection, approvals); inventory tracking system with Sheets + Apps Script + ESP32; Google Workspace automation; ticketing/helpdesk system for internal IT support; access/permissions management tool."
+      ],
+      resumeFile: "Ali_Cheikh_CV_Systems_Admin.pdf",
+      email: "contact@ali-cheikh.com",
+      phoneDisplay: "+216 90 725 434",
+      phoneHref: "+21690725434",
+      metaTitle: "Ali Cheikh | Systems Administrator & Business Automation Specialist",
+      metaDescription:
+        "Systems administrator and business automation profile for Ali Cheikh, covering HR-tech, IT administration, reporting automation, and resume access."
+    },
+    general: {
+      role: "Business Logistics Strategist & Systems Administrator",
+      intro:
+        "Business logistics strategist and systems administrator with developer expertise. Passionate about building scalable HR-tech solutions and streamlining operations through intelligent automation.",
+      profile:
+        "Proven track record delivering 80%+ workload reduction and measurable ROI. Strategic team player and high-impact operator who excels at transforming complex business challenges into elegant, scalable systems.",
+      focus: [
+        "Build scalable HR-tech solutions and streamline operations through intelligent automation.",
+        "Design and administer workforce management, recruitment, and interview scheduling systems.",
+        "Automate project reporting and recurring business workflows.",
+        "Turn complex business challenges into elegant, scalable systems."
+      ],
+      skills: [
+        "Systems & Admin: IT administration, user management, workflow systems, technical support, security, Microsoft 365.",
+        "Automation: Google Apps Script, Sheets automation, report generation, workflow optimization, Power Automate.",
+        "Database: MySQL, PostgreSQL, Supabase, Cloudinary.",
+        "HR-Tech: Applicant tracking, interview scheduling, job posting, LinkedIn integration.",
+        "Development: React, Node.js, TypeScript, Python, REST APIs, GraphQL, Next.js, Express.js, Tesseract.js.",
+        "Tools: Git, GitHub, Vercel, Cloudflare, AI, CI/CD."
+      ],
+      experience: [
+        "IT & Recruitment Systems Administrator - Tunisia Oil & Gas Services: Designed and administered workforce management system for job applications and interview scheduling; managed job postings, LinkedIn presence, candidate communications, and hiring workflow optimization; automated project reporting, eliminating 6+ hours weekly manual report generation.",
+        "Technical Co-Founder - Bloolabb, Live The Residency - Delta Programme: Co-founded AI-powered learning platform selected among 15 finalists from 1,500 applicants; scaled to 100+ active users; owned platform operations, content management infrastructure, student progress tracking, and administrative tooling.",
+        "Backend Developer & Workflow Automation - i-startup - Co-Work Solutions: Migrated co-working space operations from spreadsheet management to centralized CMS dashboard; automated recurring business workflows with Google Apps Script; built 4 email marketing and client management systems.",
+        "Software Developer Intern - BinetCom: Built internal invoicing system and admin dashboards; implemented custom APIs enabling 40% faster internal operations."
+      ],
+      impact: [
+        "Proven track record delivering 80%+ workload reduction and measurable ROI.",
+        "Eliminated 6+ hours weekly manual report generation at Tunisia Oil & Gas Services.",
+        "Scaled Bloolabb to 100+ active users after selection from 1,500 applicants.",
+        "Implemented custom APIs enabling 40% faster internal operations at BinetCom.",
+        "Built Warehouse OCR System achieving 80% reduction in manual data entry workload."
+      ],
+      projects: [
+        "Workforce Management System (TOGS) - End-to-end HR system for job applications, interview scheduling, and recruitment management; replaced manual paper-based process.",
+        "Warehouse OCR System (Energen) - Label scanning and inventory registration system using Tesseract.js and Google Apps Script; achieved 80% reduction in manual data entry workload."
       ],
       resumeFile: "Ali_Cheikh_Resume.pdf",
       email: "contact@ali-cheikh.com",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
-      metaTitle: "Ali Cheikh | Software Engineer / Full Stack Developer",
+      metaTitle: "Ali Cheikh | Business Logistics Strategist & Systems Administrator",
       metaDescription:
-        "Full-stack developer and product builder profile for Ali Cheikh, including verified experience, projects, and resume access."
-    },
-    formateur: {
-      role: "Technology Educator & Youth STEM Formateur",
-      intro:
-        "I teach kids and young people how to use technology, from block coding to building their first websites, workshops, and hackathons across different settings.",
-      profile:
-        "Practical educator combining AI and web tools with project-based teaching. I have completed AI and education coursework through OpenAI, IBM, and the University of Glasgow.",
-      focus: [
-        "Support learners from first exposure to independent project delivery.",
-        "Run workshops, clubs, and hackathons with learning-by-doing methods.",
-        "Adapt sessions by age and skill level for stronger retention.",
-        "Teach AI literacy with responsible classroom usage and ethics."
-      ],
-      skills: [
-        "Early Learners (6-10): BeeBot, Weedo Robotics, Scratch (MIT), Tynker, unplugged coding.",
-        "Middle Learners (10-14): MIT App Inventor, advanced Scratch, HTML and CSS basics.",
-        "Teen Learners (14-18): JavaScript, Python basics, web projects, AI literacy and prompt engineering.",
-        "AI in Education: AI-assisted teaching, LLM tools for classrooms, ethical AI discussions.",
-        "Platforms: Google Classroom, Moodle, LMS tools, and interactive whiteboards."
-      ],
-      experience: [
-        "Tech Club Manager & Youth Mentor - Det Development (Sep 2020 - Dec 2023): mentored students and ran coding sessions.",
-        "EdTech Co-Founder & Learning Designer - BlooLabb (2025): designed learning content and student progression paths.",
-        "Hackathon Facilitator & Workshop Educator - Tunisia (2021 - Present): helped learners build projects through events and clubs.",
-        "TEDx speaker on technology and learning for young people (2023)."
-      ],
-      impact: [
-        "Harvard Business Impact Education - Verified Educator (2025).",
-        "Live The Residency Delta - Top 15 out of 1,500 applicants (2025).",
-        "Built practical youth learning paths with AI, web, and robotics integration.",
-        "Supported learners in clubs and events to become confident project builders."
-      ],
-      projects: [
-        "BlooLabb youth learning platform with videos, quizzes, and AI-guided support.",
-        "Hackathon facilitation programs for students and beginner makers.",
-        "Project-based workshop tracks in web development and AI literacy.",
-        "Teaching resources for Scratch, MIT App Inventor, and robotics learners."
-      ],
-      resumeFile: "Ali_Cheikh_Formateur_CV.pdf",
-      email: "ali@ali-cheikh.com",
-      phoneDisplay: "+216 90 725 434",
-      phoneHref: "+21690725434",
-      metaTitle: "Ali Cheikh | Formateur",
-      metaDescription:
-        "Technology educator and youth STEM formateur profile for Ali Cheikh, with verified teaching experience and direct resume access."
+        "Business logistics, systems administration, HR-tech, and automation profile for Ali Cheikh, with resume access."
     }
   };
 
@@ -159,7 +216,7 @@
 
   var defaultMetaTitle = "Ali Cheikh | Resume Selector";
   var defaultMetaDescription =
-    "Choose the profile you need for Ali Cheikh: Formateur or Software Engineer / Full Stack Developer.";
+    "Choose the profile you need for Ali Cheikh: Full-Stack Developer, Systems Administrator, or General Resume.";
   var currentProfileKey = null;
 
   function getScapeApi() {
@@ -175,11 +232,13 @@
     }
 
     var imageUrl =
-      profileKey === "formateur"
-        ? scapeEmojiImages.formateur
-        : profileKey === "engineer"
-          ? scapeEmojiImages.engineer
-          : scapeEmojiImages.selector;
+      profileKey === "systems"
+        ? scapeEmojiImages.systems
+        : profileKey === "general"
+          ? scapeEmojiImages.general
+          : profileKey === "engineer"
+            ? scapeEmojiImages.engineer
+            : scapeEmojiImages.selector;
 
     scapeApi.updateConfig({
       type: "image",
