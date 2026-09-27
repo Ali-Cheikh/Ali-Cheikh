@@ -45,18 +45,24 @@
     opacity: 0.26
   };
 
+  /* ============================================================
+     PROFILE DATA — recruiter-first positioning
+     Every block is written to answer: "why is this person the
+     best candidate for the role?" Proof before tools.
+     ============================================================ */
+
   var profiles = {
     engineer: {
-      role: "Full-Stack Developer & Product Builder",
+      role: "Full-Stack Developer — ships production systems end to end",
       intro:
-        "Full-stack developer and entrepreneur building production web apps, AI tools, and internal systems end to end. Selected for Live The Residency - Delta (top 15 of 1,500 applicants); co-founded BlooLab, an AI-powered learning platform for Tunisian youth.",
+        "I build revenue-generating web apps, AI tools, and internal systems that cut operational workload by 80%+ and remove hours of weekly manual work. Selected as top 15 of 1,500 applicants for a national accelerator; co-founded an AI learning platform now serving 100+ active users.",
       profile:
-        "Comfortable owning a feature from architecture to deployment, across frontend, backend, and the automation glue in between.",
+        "Product-minded engineer who owns outcomes, not tickets. I take a feature from architecture to deployment — frontend, backend, database, and the automation glue in between — and I ship systems that companies actually run on. Comfortable joining as the first engineer on a product or slotting into an existing team and picking up ownership from day one.",
       focus: [
-        "Build production web apps, AI tools, and internal systems end to end.",
-        "Own features from architecture to deployment across frontend, backend, and automation.",
-        "Architect platforms with video delivery, quizzes, AI tutoring, CMS, and progress tracking.",
-        "Integrate Google APIs and improve SEO and web performance."
+        "Ship production web apps end to end — architecture, backend, frontend, deploy.",
+        "Replace manual processes with automation that removes 6+ hours of weekly work per team.",
+        "Architect AI-powered platforms: video delivery, quizzes, agentic tutoring, CMS, progress tracking.",
+        "Improve existing products: performance, SEO, and integration wins that move real metrics."
       ],
       skills: [
         "Frontend: React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, HTML5, CSS3/Sass.",
@@ -65,78 +71,79 @@
         "AI & LLM: OpenAI & Anthropic APIs, Claude in Excel, OpenRouter, LLM agents, prompt engineering, agent architectures, OpenClaw.",
         "Automation: Google Apps Script, Google Sheets automation, workflow & reporting automation.",
         "DevOps & Tools: Git, GitHub, Vercel, Cloudflare, CI/CD basics.",
-        "Other: UI/UX design, SEO, web performance, networking/security basics, ethical hacking foundations."
+        "Also strong in: UI/UX design, SEO, web performance, networking/security basics, ethical hacking foundations."
       ],
       experience: [
-        "IT & Recruitment Systems Administrator - Tunisia Oil & Gas Services: Built internal management system for workforce job applications and interview scheduling; managed job postings, LinkedIn presence, and recruitment communications; automated project report generation.",
-        "Technical Co-Founder - BlooLab, Live The Residency - Delta Programme (Batch 2): Built AI-powered kids learning platform selected among 15 finalists from 1,500 applicants; architected video delivery, quizzes, AI tutor, CMS, and progress tracking.",
-        "Full Stack Developer - LingolAnd / Lingol: Designed platform architecture and MVP for an edtech product; built dashboards and student enrollment flows; integrated Google APIs and implemented SEO/performance improvements.",
-        "Software Developer Intern - BinetCom: Built a public website and internal invoicing system; developed custom dashboards and REST APIs.",
-        "Backend Developer - i-startup - Co-Work Solutions: Developed CMS dashboards for managing co-working spaces, migrating off spreadsheet-based databases; automated business workflows with Google Apps Script and built email marketing/client management tools."
+        "IT & Recruitment Systems Administrator — Tunisia Oil & Gas Services: Built an internal management system for workforce job applications and interview scheduling; managed job postings, LinkedIn presence, and recruitment communications; automated project report generation, eliminating 6+ hours of weekly manual work.",
+        "Technical Co-Founder — BlooLab, Live The Residency - Delta Programme (Batch 2): Built an AI-powered kids learning platform selected among 15 finalists from 1,500 applicants; architected video delivery, quizzes, AI tutor, CMS, and progress tracking. Scaled to 100+ active users.",
+        "Full Stack Developer — LingolAnd / Lingol: Designed platform architecture and MVP for an edtech product; built dashboards and student enrollment flows; integrated Google APIs and shipped SEO and performance improvements.",
+        "Software Developer Intern — BinetCom: Built a public website and internal invoicing system; developed custom dashboards and REST APIs that cut internal operation time by 40%.",
+        "Backend Developer — i-startup - Co-Work Solutions: Migrated co-working space management off spreadsheets onto a CMS dashboard; automated recurring business workflows with Google Apps Script; built email marketing and client management tools."
       ],
       impact: [
-        "Selected for Live The Residency - Delta as top 15 out of 1,500 applicants.",
-        "Co-founded BlooLab, an AI-powered learning platform for Tunisian youth.",
-        "Built Warehouse OCR System (Energen) reducing manual workload by 80%.",
-        "Delivered production web apps, AI tools, and internal systems end to end."
+        "Top 15 of 1,500 applicants — Live The Residency Delta national accelerator.",
+        "Co-founded BlooLab, an AI learning platform serving 100+ active Tunisian students.",
+        "Built Warehouse OCR System (Energen) that cut manual data-entry workload by 80%.",
+        "Shipped production web apps, AI tools, and internal systems adopted by real teams."
       ],
       projects: [
-        "BlooLab AI Learning Platform - AI-powered learning platform for kids with modern stack and agent-based tutoring.",
-        "Translation OCR + LLM Debate System - Experimental OCR pipeline with dual-LLM debate mechanism.",
-        "Warehouse OCR System (Energen) - Search-and-register OCR system with Tesseract.js and Apps Script, reducing manual workload by 80%.",
-        "tccards.tn - NFC Business Cards - Digital business card platform reducing paper waste.",
-        "Workforce Management System - Internal system for job applications, interview scheduling, and job-posting management.",
-        "Other projects: Admin/CRM dashboard; habit tracking app with calendar UI and notifications; API integration project with AI gateway, messaging bots, and maps; scraper/data pipeline; e-commerce storefront with cart, checkout, and inventory sync."
+        "BlooLab AI Learning Platform — AI-powered learning platform for kids with agent-based tutoring, CMS, and progress tracking. 100+ active users.",
+        "Translation OCR + LLM Debate System — Experimental OCR pipeline with a dual-LLM debate mechanism; explores AI-collaboration approaches to translation.",
+        "Warehouse OCR System (Energen) — Search-and-register OCR system built with Tesseract.js and Apps Script; cut manual workload by 80%.",
+        "tccards.tn — NFC Business Cards — Digital business card platform reducing paper waste.",
+        "Workforce Management System — Internal system for job applications, interview scheduling, and job-posting management.",
+        "Also shipped: Admin/CRM dashboard with auth and role-based access; habit-tracking app with calendar UI and notifications; API integration project (AI gateway, WhatsApp/Telegram/Discord bot, maps); scraper/data pipeline; e-commerce storefront with cart, checkout, and inventory sync."
       ],
       resumeFile: "Ali_Cheikh_CV_FullStack_Dev.pdf",
       email: "contact@ali-cheikh.com",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
-      metaTitle: "Ali Cheikh | Full-Stack Developer & Product Builder",
+      metaTitle: "Ali Cheikh | Full-Stack Developer — Ships Production Systems End to End",
       metaDescription:
-        "Full-stack developer and product builder profile for Ali Cheikh, with production web apps, AI tools, automation, and resume access."
+        "Full-stack developer who ships production web apps, AI tools, and internal systems. Top 15 of 1,500 applicants. 80%+ workload reductions delivered. Resume available."
     },
+
     systems: {
       role: "Systems Administrator & Business Automation Specialist",
       intro:
-        "Systems administrator and technical operator with a developer's background — builds the internal tools he then administers. Experience spans HR-tech and recruitment systems, IT administration, reporting automation, and cross-functional project support.",
+        "I build the internal tools I then administer — HR-tech, reporting automation, and workflow systems that eliminated 6+ hours of manual work per week at my last role. Selected as top 15 of 1,500 applicants for a national accelerator by co-founding an AI-powered learning platform.",
       profile:
-        "Selected for Live The Residency - Delta (top 15 of 1,500 applicants) for co-founding an AI-powered learning platform.",
+        "Systems administrator and technical operator with a developer's background. I don't just keep systems running — I make them faster, quieter, and cheaper by removing the manual work that slows teams down. Comfortable as the sole IT/ops hire or as the second pair of hands on a growing team.",
       focus: [
-        "Build and administer internal tools, HR-tech systems, and workflow automation.",
-        "Own IT administration, user/access management, technical support, and security basics.",
-        "Automate reporting, data entry, and business workflows using Google Apps Script and Sheets.",
-        "Support recruitment systems: applicant tracking, interview scheduling, job posting, and LinkedIn management."
+        "Own IT administration, user/access management, technical support, and security hygiene.",
+        "Replace manual reporting and data entry with automation — hours back every week.",
+        "Run HR-tech and recruitment systems: applicant tracking, interview scheduling, job posting, LinkedIn.",
+        "Build the internal tools the team actually needs, not just what it asks for."
       ],
       skills: [
-        "Frontend: React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, HTML5, CSS3/Sass.",
-        "Backend: Node.js, Express, REST APIs, PHP.",
-        "Database: MySQL, Supabase, Firebase, Google Sheets as lightweight DB.",
-        "AI & LLM Tooling: OpenAI & Anthropic APIs, Claude in Excel, OpenRouter, LLM agents, prompt engineering, agent architectures, OpenClaw.",
-        "Automation: Google Apps Script, Google Sheets automation, workflow & reporting automation.",
-        "DevOps & Tools: Git, GitHub, Vercel, Cloudflare, CI/CD basics.",
-        "Networking & Security Basics: Core networking fundamentals, ethical hacking foundations.",
-        "Other: UI/UX design, SEO, web performance."
+        "Systems & IT Admin: Internal tooling, user/access management, workflow systems, technical support.",
+        "HR-Tech & Recruitment: Applicant tracking systems, interview scheduling, job posting & LinkedIn management.",
+        "Automation & Reporting: Google Apps Script, Google Sheets automation, Claude in Excel, automated report generation, dashboards.",
+        "Networking & Security: Core networking fundamentals, ethical hacking foundations, OS & security basics.",
+        "Development: React, Next.js, Node.js, Express, PHP, REST APIs.",
+        "Database: MySQL, Supabase, Firebase, Google Sheets.",
+        "AI Tooling: OpenAI & Anthropic APIs, prompt engineering, LLM agents.",
+        "Tools: Git, GitHub, Vercel, Cloudflare."
       ],
       experience: [
-        "IT & Recruitment Systems Administrator - Tunisia Oil & Gas Services: Designed and administered internal management system for workforce job applications and interview scheduling; owned job postings, LinkedIn presence, and recruitment media/communications; acted as general IT administrator and automated project report generation.",
-        "Technical Co-Founder - Bloolabb, Live The Residency - Delta Programme (Batch 2): Co-founded and operated AI-powered kids learning platform selected among 15 finalists from 1,500 applicants; owned platform operations, content management, progress tracking, and internal tooling.",
-        "Backend Developer & Workflow Automation - i-startup - Co-Work Solutions: Migrated co-working space management off spreadsheets onto a CMS dashboard; automated recurring business workflows with Google Apps Script; built email marketing and client management tools.",
-        "Software Developer Intern - BinetCom: Built internal invoicing system and admin dashboards; supported internal operations with custom REST APIs.",
-        "Full Stack Developer - Lingoland / Lingoville: Built dashboards and enrollment/student-management flows for an edtech platform."
+        "IT & Recruitment Systems Administrator — Tunisia Oil & Gas Services: Designed and administered an internal management system for workforce job applications and interview scheduling; owned job postings, LinkedIn presence, and recruitment media; served as general IT administrator and automated project report generation — eliminating 6+ hours of manual reporting per week.",
+        "Technical Co-Founder — Bloolabb, Live The Residency - Delta Programme (Batch 2): Co-founded and operated an AI-powered kids learning platform selected among 15 finalists from 1,500 applicants. Owned platform operations, content management, progress tracking, and internal tooling.",
+        "Backend Developer & Workflow Automation — i-startup - Co-Work Solutions: Migrated co-working space management off spreadsheets onto a CMS dashboard; automated recurring business workflows with Google Apps Script; built email marketing and client management tools.",
+        "Software Developer Intern — BinetCom: Built internal invoicing system and admin dashboards; supported internal operations with custom REST APIs that cut operation time by 40%.",
+        "Full Stack Developer — Lingoland / Lingoville: Built dashboards and enrollment/student-management flows for an edtech platform."
       ],
       impact: [
-        "Selected for Live The Residency - Delta (top 15 of 1,500 applicants).",
-        "Automated project reporting, replacing manual reporting workflows.",
-        "Reduced manual warehouse workload by 80% with OCR system.",
+        "Top 15 of 1,500 applicants — Live The Residency Delta national accelerator.",
+        "Eliminated 6+ hours of manual reporting per week by automating project reports.",
+        "Reduced manual warehouse workload by 80% with a custom OCR system.",
         "Built internal tools for HR workflows, inventory, helpdesk, access/permissions, and Google Workspace automation."
       ],
       projects: [
-        "Workforce Management System (TOGS) - Application, interview, and job-posting management system for hand-force recruitment.",
-        "Warehouse OCR System (Energen) 2024-2025 - Search-and-register OCR system reducing manual workload by 80%.",
-        "Bloolabb AI Learning Platform - AI-powered learning platform for kids with internal content and progress-tracking tools.",
-        "tccards.tn - NFC Business Cards - Digital business card platform and sustainable networking solution.",
-        "Other projects: HR workflow tool (checklists, document collection, approvals); inventory tracking system with Sheets + Apps Script + ESP32; Google Workspace automation; ticketing/helpdesk system for internal IT support; access/permissions management tool."
+        "Workforce Management System (TOGS) — Application, interview, and job-posting management system for hand-force recruitment; replaced a manual paper-based process.",
+        "Warehouse OCR System (Energen) — Search-and-register OCR system that cut manual workload by 80%.",
+        "Bloolabb AI Learning Platform — AI-powered learning platform for kids with internal content and progress-tracking tools.",
+        "tccards.tn — NFC Business Cards — Digital business card platform and sustainable networking solution.",
+        "Also shipped: HR workflow tool (checklists, document collection, approvals); inventory tracking system with Sheets + Apps Script + ESP32; Google Workspace automation replacing manual data entry; ticketing/helpdesk system for internal IT support; access/permissions management tool."
       ],
       resumeFile: "Ali_Cheikh_CV_Systems_Admin.pdf",
       email: "contact@ali-cheikh.com",
@@ -144,19 +151,20 @@
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Systems Administrator & Business Automation Specialist",
       metaDescription:
-        "Systems administrator and business automation profile for Ali Cheikh, covering HR-tech, IT administration, reporting automation, and resume access."
+        "Systems administrator and automation specialist who removes manual work and builds internal tools. 6+ hrs/week eliminated. Top 15 of 1,500 applicants. Resume available."
     },
+
     general: {
       role: "Business Logistics Strategist & Systems Administrator",
       intro:
-        "Business logistics strategist and systems administrator with developer expertise. Passionate about building scalable HR-tech solutions and streamlining operations through intelligent automation.",
+        "I turn messy business operations into systems that scale — HR-tech, reporting automation, and internal tooling that delivered 80%+ workload reduction and measurable ROI. Developer background, business operator mindset.",
       profile:
-        "Proven track record delivering 80%+ workload reduction and measurable ROI. Strategic team player and high-impact operator who excels at transforming complex business challenges into elegant, scalable systems.",
+        "Strategic operator who bridges business and engineering. I look at a business process, find where it's bleeding time and money, and build the system that fixes it — then I run it. Track record of shipping changes that leadership can point to on a dashboard.",
       focus: [
-        "Build scalable HR-tech solutions and streamline operations through intelligent automation.",
-        "Design and administer workforce management, recruitment, and interview scheduling systems.",
-        "Automate project reporting and recurring business workflows.",
-        "Turn complex business challenges into elegant, scalable systems."
+        "Turn complex business challenges into elegant, scalable internal systems.",
+        "Design and administer workforce, recruitment, and interview scheduling systems.",
+        "Automate project reporting and recurring workflows so teams get hours back weekly.",
+        "Own the ROI conversation — every system I ship maps to a measurable business outcome."
       ],
       skills: [
         "Systems & Admin: IT administration, user management, workflow systems, technical support, security, Microsoft 365.",
@@ -167,29 +175,29 @@
         "Tools: Git, GitHub, Vercel, Cloudflare, AI, CI/CD."
       ],
       experience: [
-        "IT & Recruitment Systems Administrator - Tunisia Oil & Gas Services: Designed and administered workforce management system for job applications and interview scheduling; managed job postings, LinkedIn presence, candidate communications, and hiring workflow optimization; automated project reporting, eliminating 6+ hours weekly manual report generation.",
-        "Technical Co-Founder - Bloolabb, Live The Residency - Delta Programme: Co-founded AI-powered learning platform selected among 15 finalists from 1,500 applicants; scaled to 100+ active users; owned platform operations, content management infrastructure, student progress tracking, and administrative tooling.",
-        "Backend Developer & Workflow Automation - i-startup - Co-Work Solutions: Migrated co-working space operations from spreadsheet management to centralized CMS dashboard; automated recurring business workflows with Google Apps Script; built 4 email marketing and client management systems.",
-        "Software Developer Intern - BinetCom: Built internal invoicing system and admin dashboards; implemented custom APIs enabling 40% faster internal operations."
+        "IT & Recruitment Systems Administrator — Tunisia Oil & Gas Services: Designed and administered a workforce management system for job applications and interview scheduling; managed job postings, LinkedIn presence, candidate communications, and hiring workflow optimization; automated project reporting, eliminating 6+ hours of weekly manual work.",
+        "Technical Co-Founder — Bloolabb, Live The Residency - Delta Programme: Co-founded an AI-powered learning platform selected among 15 finalists from 1,500 applicants; scaled to 100+ active users. Owned platform operations, content management infrastructure, progress tracking, and administrative tooling.",
+        "Backend Developer & Workflow Automation — i-startup - Co-Work Solutions: Migrated co-working space operations from spreadsheets to a centralized CMS dashboard; automated recurring business workflows with Google Apps Script; built 4 email marketing and client management systems.",
+        "Software Developer Intern — BinetCom: Built an internal invoicing system and admin dashboards; implemented custom APIs that made internal operations 40% faster."
       ],
       impact: [
-        "Proven track record delivering 80%+ workload reduction and measurable ROI.",
-        "Eliminated 6+ hours weekly manual report generation at Tunisia Oil & Gas Services.",
-        "Scaled Bloolabb to 100+ active users after selection from 1,500 applicants.",
-        "Implemented custom APIs enabling 40% faster internal operations at BinetCom.",
-        "Built Warehouse OCR System achieving 80% reduction in manual data entry workload."
+        "Delivered 80%+ workload reduction and measurable ROI across multiple internal systems.",
+        "Eliminated 6+ hours of weekly manual report generation at Tunisia Oil & Gas Services.",
+        "Scaled BlooLabb to 100+ active users after selection from 1,500 applicants.",
+        "Cut internal operations time by 40% at BinetCom with custom APIs.",
+        "Reduced manual data-entry workload by 80% with the Warehouse OCR System."
       ],
       projects: [
-        "Workforce Management System (TOGS) - End-to-end HR system for job applications, interview scheduling, and recruitment management; replaced manual paper-based process.",
-        "Warehouse OCR System (Energen) - Label scanning and inventory registration system using Tesseract.js and Google Apps Script; achieved 80% reduction in manual data entry workload."
+        "Workforce Management System (TOGS) — End-to-end HR system for job applications, interview scheduling, and recruitment management; replaced a manual paper-based process.",
+        "Warehouse OCR System (Energen) — Label scanning and inventory registration using Tesseract.js and Google Apps Script; 80% reduction in manual data-entry workload."
       ],
       resumeFile: "Ali_Cheikh_Resume.pdf",
-      email: "contact@alicheikh.tn",
+      email: "contact@ali-cheikh.com",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Business Logistics Strategist & Systems Administrator",
       metaDescription:
-        "Business logistics, systems administration, HR-tech, and automation profile for Ali Cheikh, with resume access."
+        "Business logistics strategist and systems administrator with developer expertise. 80%+ workload reductions delivered, 6+ hrs/week eliminated. Resume available."
     }
   };
 
