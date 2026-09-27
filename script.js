@@ -184,7 +184,7 @@
         "Warehouse OCR System (Energen) - Label scanning and inventory registration system using Tesseract.js and Google Apps Script; achieved 80% reduction in manual data entry workload."
       ],
       resumeFile: "Ali_Cheikh_Resume.pdf",
-      email: "contact@ali-cheikh.com",
+      email: "contact@alicheikh.tn",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Business Logistics Strategist & Systems Administrator",
