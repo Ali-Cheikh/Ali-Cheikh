@@ -22,13 +22,18 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const response = await github.paginate(github.rest.repos.listForAuthenticatedUser, {
-              visibility: 'public',
+            // Use listForUser instead of listForAuthenticatedUser to stay scoped within token constraints
+            const response = await github.paginate(github.rest.repos.listForUser, {
+              username: context.repo.owner,
               per_page: 100
             });
+            
+            // Filter out forks (matching the default behavior of repoList)
             const repoNames = response
-              .filter(repo => !repo.fork)
+              .filter(repo => !repo.fork && !repo.private)
               .map(repo => repo.name);
+            
+            core.info(`Found ${repoNames.length} public source repositories.`);
             core.setOutput('repoList', repoNames.join(','));
 
       - name: Get Commit Message
