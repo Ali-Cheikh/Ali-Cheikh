@@ -19,13 +19,23 @@ jobs:
 
       - name: Get Repo List
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@v1.1.1
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const response = await github.paginate(github.rest.repos.listForAuthenticatedUser, {
+              visibility: 'public',
+              per_page: 100
+            });
+            const repoNames = response
+              .filter(repo => !repo.fork)
+              .map(repo => repo.name);
+            core.setOutput('repoList', repoNames.join(','));
 
       - name: Get Commit Message
         id: message
         uses: actions/github-script@v7
         env:
-          FULL_COMMIT_MESSAGE: \${{ github.event.head_commit.message }}
+          FULL_COMMIT_MESSAGE: '\${{ github.event.head_commit.message }}'
         with:
           result-encoding: string
           script: |
