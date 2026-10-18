@@ -19,13 +19,13 @@ jobs:
 
       - name: Get Repo List
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@v0.4.1
+        uses: yi-Xu-0100/repo-list-generator@v1.1.1
 
       - name: Get Commit Message
         id: message
         uses: actions/github-script@v7
         env:
-          FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
+          FULL_COMMIT_MESSAGE: '\${{ github.event.head_commit.message }}'
         with:
           result-encoding: string
           script: |
@@ -36,12 +36,17 @@ jobs:
             core.info(time);
             return `Get traffic data at ${time}`;
 
+      # Safely extracts the current year into the new Environment Files format
+      - name: Get Current Year
+        id: current_year
+        run: echo "year=\((date +'\%Y')" >> \)GITHUB_OUTPUT
+
       - name: Set traffic
         id: traffic
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
-          my_token: ${{ secrets.TRAFFIC_TOKEN }}
-          static_list: '${{ steps.repo.outputs.repoList }}'
+          my_token: \${{ secrets.TRAFFIC_TOKEN }}
+          static_list: '\${{ steps.repo.outputs.repoList }}'
           traffic_branch: traffic
           views_color: "brightgreen"
           clones_color: "blue"
@@ -52,19 +57,19 @@ jobs:
           total_views_week_color: "yellow"
           total_clones_week_color: "purple"
           logo: github
-          year: 2026
+          year: \${{ steps.current_year.outputs.year }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
-          publish_dir: ${{ steps.traffic.outputs.traffic_path }}
+          github_token: \${{ secrets.GITHUB_TOKEN }}
+          publish_branch: \${{ steps.traffic.outputs.traffic_branch }}
+          publish_dir: \${{ steps.traffic.outputs.traffic_path }}
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          full_commit_message: ${{ steps.message.outputs.result }}
+          full_commit_message: \${{ steps.message.outputs.result }}
 
       - name: Show traffic data
         run: |
-          cd ${{ steps.traffic.outputs.traffic_path }}
+          cd \${{ steps.traffic.outputs.traffic_path }}
           ls -R
