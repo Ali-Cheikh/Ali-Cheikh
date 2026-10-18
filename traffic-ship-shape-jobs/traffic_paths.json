@@ -2,31 +2,7 @@
   {
     "path": "/Ali-Cheikh/ship-shape-jobs",
     "title": "Overview",
-    "count": 9,
-    "uniques": 6
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/blob/main/public/bg-images.png",
-    "title": "/blob/main/public/bg-images.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/labels",
-    "title": "/labels",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/public",
-    "title": "/tree/main/public",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Ali-Cheikh/ship-shape-jobs/tree/main/src",
-    "title": "/tree/main/src",
-    "count": 1,
-    "uniques": 1
+    "count": 3,
+    "uniques": 3
   }
 ]

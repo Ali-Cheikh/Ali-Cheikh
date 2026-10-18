@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/Ali-Cheikh/nosey-agent",
+    "title": "Overview",
+    "count": 10,
+    "uniques": 8
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/edtech-agent.js",
+    "title": "/blob/main/edtech-agent.js",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/readme.md",
+    "title": "/blob/main/readme.md",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/setup.md",
+    "title": "/blob/main/setup.md",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/LICENCE",
+    "title": "/blob/main/LICENCE",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/agents",
+    "title": "/agents",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/commit/0e223983275d4e497f1b5f7e069ba69b0c0c7840",
+    "title": "/commit/0e223983275d4e497f1b5f7e069ba69b0c0c7840",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/tree/main",
+    "title": "/tree/main",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/tree/main/assets",
+    "title": "/tree/main/assets",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/SUPPORT.md",
+    "title": "/blob/main/SUPPORT.md",
+    "count": 1,
+    "uniques": 1
+  }
+]
