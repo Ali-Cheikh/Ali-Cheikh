@@ -34,36 +34,6 @@
 [![total clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/total_clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-total-traffic-data-badge)
 ```
 
-## 📚 [--char-store](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic---char-store)
-
-### 📷 Badges without link of [--char-store](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic---char-store)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [--char-store](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic---char-store)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic---char-store/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#---char-store)
-```
-
 ## 📚 [-Minecraft-tn](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic--Minecraft-tn)
 
 ### 📷 Badges without link of [-Minecraft-tn](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic--Minecraft-tn)
@@ -242,66 +212,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-blog/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-blog)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-blog/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-blog)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-blog/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-blog)
-```
-
-## 📚 [Bright-Horizons](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Bright-Horizons)
-
-### 📷 Badges without link of [Bright-Horizons](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Bright-Horizons)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Bright-Horizons](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Bright-Horizons)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Bright-Horizons/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Bright-Horizons)
-```
-
-## 📚 [CFF](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-CFF)
-
-### 📷 Badges without link of [CFF](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-CFF)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [CFF](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-CFF)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-CFF/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-CFF)
 ```
 
 ## 📚 [ckp](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-ckp)
@@ -514,66 +424,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-ckp_js-2/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-ckp_js-2)
 ```
 
-## 📚 [club-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-club-registration)
-
-### 📷 Badges without link of [club-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-club-registration)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [club-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-club-registration)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-club-registration/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-club-registration)
-```
-
-## 📚 [Creative-Chat](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Creative-Chat)
-
-### 📷 Badges without link of [Creative-Chat](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Creative-Chat)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Creative-Chat](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Creative-Chat)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Creative-Chat/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Creative-Chat)
-```
-
 ## 📚 [det-python-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-det-python-registration)
 
 ### 📷 Badges without link of [det-python-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-det-python-registration)
@@ -604,64 +454,34 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-det-python-registration/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-det-python-registration)
 ```
 
-## 📚 [edu--pro](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-edu--pro)
+## 📚 [draw](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-draw)
 
-### 📷 Badges without link of [edu--pro](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-edu--pro)
+### 📷 Badges without link of [draw](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-draw)
 
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones_per_week.svg)
 
 ```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones_per_week.svg)
 ```
 
-### 🔗 Badges with link of [edu--pro](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-edu--pro)
+### 🔗 Badges with link of [draw](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-draw)
 
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-edu--pro/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-edu--pro)
-```
-
-## 📚 [educonnect](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-educonnect)
-
-### 📷 Badges without link of [educonnect](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-educonnect)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones_per_week.svg)
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
 
 ```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [educonnect](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-educonnect)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-educonnect/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-educonnect)
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-draw/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-draw)
 ```
 
 ## 📚 [EEE-Creative](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EEE-Creative)
@@ -692,66 +512,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Creative/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Creative)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Creative/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Creative)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Creative/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Creative)
-```
-
-## 📚 [EEE-Store-vol.2](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EEE-Store-vol.2)
-
-### 📷 Badges without link of [EEE-Store-vol.2](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EEE-Store-vol.2)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [EEE-Store-vol.2](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EEE-Store-vol.2)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EEE-Store-vol.2/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EEE-Store-vol.2)
-```
-
-## 📚 [EoF-VeriHope](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EoF-VeriHope)
-
-### 📷 Badges without link of [EoF-VeriHope](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EoF-VeriHope)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [EoF-VeriHope](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-EoF-VeriHope)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-EoF-VeriHope/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-EoF-VeriHope)
 ```
 
 ## 📚 [ES6-C-K-P](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-ES6-C-K-P)
@@ -874,66 +634,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Fight-ME-Monk/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Fight-ME-Monk)
 ```
 
-## 📚 [Game-zone](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Game-zone)
-
-### 📷 Badges without link of [Game-zone](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Game-zone)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Game-zone](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Game-zone)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Game-zone/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Game-zone)
-```
-
-## 📚 [GCCE](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-GCCE)
-
-### 📷 Badges without link of [GCCE](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-GCCE)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [GCCE](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-GCCE)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GCCE/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GCCE)
-```
-
 ## 📚 [Getting-used-to-React-Redux](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Getting-used-to-React-Redux)
 
 ### 📷 Badges without link of [Getting-used-to-React-Redux](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Getting-used-to-React-Redux)
@@ -964,36 +664,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Getting-used-to-React-Redux/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Getting-used-to-React-Redux)
 ```
 
-## 📚 [gmcdethk-](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-gmcdethk-)
-
-### 📷 Badges without link of [gmcdethk-](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-gmcdethk-)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [gmcdethk-](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-gmcdethk-)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gmcdethk-/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gmcdethk-)
-```
-
 ## 📚 [gomycode](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-gomycode)
 
 ### 📷 Badges without link of [gomycode](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-gomycode)
@@ -1022,66 +692,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gomycode/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gomycode)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gomycode/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gomycode)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-gomycode/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-gomycode)
-```
-
-## 📚 [GZC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-GZC)
-
-### 📷 Badges without link of [GZC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-GZC)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [GZC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-GZC)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-GZC/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-GZC)
-```
-
-## 📚 [Hackathon-TRC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Hackathon-TRC)
-
-### 📷 Badges without link of [Hackathon-TRC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Hackathon-TRC)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Hackathon-TRC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Hackathon-TRC)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Hackathon-TRC/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Hackathon-TRC)
 ```
 
 ## 📚 [i-startup](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-i-startup)
@@ -1142,36 +752,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Image-OCR-App/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Image-OCR-App)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Image-OCR-App/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Image-OCR-App)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Image-OCR-App/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Image-OCR-App)
-```
-
-## 📚 [InkLink](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-InkLink)
-
-### 📷 Badges without link of [InkLink](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-InkLink)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [InkLink](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-InkLink)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-InkLink/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-InkLink)
 ```
 
 ## 📚 [istartupnew](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-istartupnew)
@@ -1324,66 +904,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-jsx-component/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-jsx-component)
 ```
 
-## 📚 [LearningPython](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-LearningPython)
-
-### 📷 Badges without link of [LearningPython](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-LearningPython)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [LearningPython](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-LearningPython)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-LearningPython/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-LearningPython)
-```
-
-## 📚 [lingo-land](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-lingo-land)
-
-### 📷 Badges without link of [lingo-land](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-lingo-land)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [lingo-land](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-lingo-land)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lingo-land/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lingo-land)
-```
-
 ## 📚 [lkjhgf](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-lkjhgf)
 
 ### 📷 Badges without link of [lkjhgf](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-lkjhgf)
@@ -1412,36 +932,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lkjhgf/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lkjhgf)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lkjhgf/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lkjhgf)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-lkjhgf/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-lkjhgf)
-```
-
-## 📚 [Login-sheet-demo](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Login-sheet-demo)
-
-### 📷 Badges without link of [Login-sheet-demo](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Login-sheet-demo)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Login-sheet-demo](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Login-sheet-demo)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Login-sheet-demo/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Login-sheet-demo)
 ```
 
 ## 📚 [logos-mediaeditor](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-logos-mediaeditor)
@@ -1624,96 +1114,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-movie-app/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-movie-app)
 ```
 
-## 📚 [nation-mc](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nation-mc)
-
-### 📷 Badges without link of [nation-mc](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nation-mc)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [nation-mc](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nation-mc)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-nation-mc/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-nation-mc)
-```
-
-## 📚 [NFC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-NFC)
-
-### 📷 Badges without link of [NFC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-NFC)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [NFC](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-NFC)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-NFC/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-NFC)
-```
-
-## 📚 [Nodejs-Reactjs-Nextjs](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Nodejs-Reactjs-Nextjs)
-
-### 📷 Badges without link of [Nodejs-Reactjs-Nextjs](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Nodejs-Reactjs-Nextjs)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Nodejs-Reactjs-Nextjs](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-Nodejs-Reactjs-Nextjs)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-Nodejs-Reactjs-Nextjs/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-Nodejs-Reactjs-Nextjs)
-```
-
 ## 📚 [nosey-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nosey-agent)
 
 ### 📷 Badges without link of [nosey-agent](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-nosey-agent)
@@ -1774,66 +1174,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PIG/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PIG)
 ```
 
-## 📚 [PortfolioProject](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-PortfolioProject)
-
-### 📷 Badges without link of [PortfolioProject](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-PortfolioProject)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [PortfolioProject](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-PortfolioProject)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-PortfolioProject/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-PortfolioProject)
-```
-
-## 📚 [project-alfanfc-card](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-project-alfanfc-card)
-
-### 📷 Badges without link of [project-alfanfc-card](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-project-alfanfc-card)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [project-alfanfc-card](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-project-alfanfc-card)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-project-alfanfc-card/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-project-alfanfc-card)
-```
-
 ## 📚 [QR-HuB](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-QR-HuB)
 
 ### 📷 Badges without link of [QR-HuB](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-QR-HuB)
@@ -1862,6 +1202,36 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-QR-HuB/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-QR-HuB)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-QR-HuB/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-QR-HuB)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-QR-HuB/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-QR-HuB)
+```
+
+## 📚 [rabie-track-tunisia](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-rabie-track-tunisia)
+
+### 📷 Badges without link of [rabie-track-tunisia](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-rabie-track-tunisia)
+
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [rabie-track-tunisia](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-rabie-track-tunisia)
+
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+
+```markdown
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-rabie-track-tunisia/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-rabie-track-tunisia)
 ```
 
 ## 📚 [ramadan-duo](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-ramadan-duo)
@@ -1924,36 +1294,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-scape.js/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-scape.js)
 ```
 
-## 📚 [SEO](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-SEO)
-
-### 📷 Badges without link of [SEO](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-SEO)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [SEO](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-SEO)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-SEO/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-SEO)
-```
-
 ## 📚 [ship-shape-jobs](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-ship-shape-jobs)
 
 ### 📷 Badges without link of [ship-shape-jobs](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-ship-shape-jobs)
@@ -1982,36 +1322,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-ship-shape-jobs/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-ship-shape-jobs)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-ship-shape-jobs/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-ship-shape-jobs)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-ship-shape-jobs/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-ship-shape-jobs)
-```
-
-## 📚 [special-potato](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-special-potato)
-
-### 📷 Badges without link of [special-potato](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-special-potato)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [special-potato](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-special-potato)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-special-potato/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-special-potato)
 ```
 
 ## 📚 [sticker-splitter](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-sticker-splitter)
@@ -2104,36 +1414,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tableocr/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tableocr)
 ```
 
-## 📚 [tarkiz](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-tarkiz)
-
-### 📷 Badges without link of [tarkiz](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-tarkiz)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [tarkiz](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-tarkiz)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-tarkiz/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-tarkiz)
-```
-
 ## 📚 [testing-netlify-comment-JAMstack](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-testing-netlify-comment-JAMstack)
 
 ### 📷 Badges without link of [testing-netlify-comment-JAMstack](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-testing-netlify-comment-JAMstack)
@@ -2164,96 +1444,6 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-testing-netlify-comment-JAMstack/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-testing-netlify-comment-JAMstack)
 ```
 
-## 📚 [training-overview](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-training-overview)
-
-### 📷 Badges without link of [training-overview](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-training-overview)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [training-overview](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-training-overview)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-training-overview/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-training-overview)
-```
-
-## 📚 [travel-agency](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-travel-agency)
-
-### 📷 Badges without link of [travel-agency](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-travel-agency)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [travel-agency](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-travel-agency)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-travel-agency/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-travel-agency)
-```
-
-## 📚 [turth-ll-dare-DB](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-turth-ll-dare-DB)
-
-### 📷 Badges without link of [turth-ll-dare-DB](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-turth-ll-dare-DB)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [turth-ll-dare-DB](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-turth-ll-dare-DB)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-turth-ll-dare-DB/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-turth-ll-dare-DB)
-```
-
 ## 📚 [verihope](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-verihope)
 
 ### 📷 Badges without link of [verihope](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-verihope)
@@ -2282,36 +1472,6 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-verihope/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-verihope)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-verihope/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-verihope)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-verihope/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-verihope)
-```
-
-## 📚 [vscode](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-vscode)
-
-### 📷 Badges without link of [vscode](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-vscode)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [vscode](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-vscode)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-vscode/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-vscode)
 ```
 
 ## 📚 [warator](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-warator)
@@ -2372,34 +1532,4 @@
 [![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-webcards-gym-preview/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-webcards-gym-preview)
 [![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-webcards-gym-preview/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-webcards-gym-preview)
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-webcards-gym-preview/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-webcards-gym-preview)
-```
-
-## 📚 [website-template](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-website-template)
-
-### 📷 Badges without link of [website-template](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-website-template)
-
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views.svg)
-![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [website-template](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-website-template)
-
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-
-```markdown
-[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
-[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-website-template/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-website-template)
 ```
