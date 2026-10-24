@@ -424,6 +424,36 @@
 [![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-ckp_js-2/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-ckp_js-2)
 ```
 
+## 📚 [classrep-tool](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-classrep-tool)
+
+### 📷 Badges without link of [classrep-tool](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-classrep-tool)
+
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views.svg)
+![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones.svg)
+![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [classrep-tool](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-classrep-tool)
+
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+
+```markdown
+[![views](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+[![views per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/views_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+[![clones](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+[![clones per week](https://raw.githubusercontent.com/Ali-Cheikh/Ali-Cheikh/traffic/traffic-classrep-tool/clones_per_week.svg)](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic#-classrep-tool)
+```
+
 ## 📚 [det-python-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-det-python-registration)
 
 ### 📷 Badges without link of [det-python-registration](https://github.com/Ali-Cheikh/Ali-Cheikh/tree/traffic/traffic-det-python-registration)
