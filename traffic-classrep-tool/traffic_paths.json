@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/Ali-Cheikh/classrep-tool/pulls",
+    "title": "/pulls",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/classrep-tool",
+    "title": "Overview",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/classrep-tool/pull/2",
+    "title": "/pull/2",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/classrep-tool/pull/3",
+    "title": "/pull/3",
+    "count": 1,
+    "uniques": 1
+  }
+]
