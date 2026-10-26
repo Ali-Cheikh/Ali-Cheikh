@@ -1,7 +1,7 @@
 [
   {
-    "path": "/Ali-Cheikh/nosey-agent/blob/main/edtech-agent.js",
-    "title": "/blob/main/edtech-agent.js",
+    "path": "/Ali-Cheikh/nosey-agent",
+    "title": "Overview",
     "count": 1,
     "uniques": 1
   },
@@ -32,6 +32,12 @@
   {
     "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-09-14.md",
     "title": "/blob/HEAD/digests/tech/2026-09-14.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-09-19.md",
+    "title": "/blob/HEAD/digests/tech/2026-09-19.md",
     "count": 1,
     "uniques": 1
   }
