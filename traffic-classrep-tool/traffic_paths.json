@@ -2,13 +2,19 @@
   {
     "path": "/Ali-Cheikh/classrep-tool/pulls",
     "title": "/pulls",
-    "count": 7,
+    "count": 8,
     "uniques": 1
   },
   {
     "path": "/Ali-Cheikh/classrep-tool",
     "title": "Overview",
-    "count": 4,
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/Ali-Cheikh/classrep-tool/actions/new",
+    "title": "/actions/new",
+    "count": 1,
     "uniques": 1
   },
   {
