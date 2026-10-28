@@ -2,43 +2,61 @@
   {
     "path": "/Ali-Cheikh/nosey-agent",
     "title": "Overview",
-    "count": 4,
+    "count": 12,
     "uniques": 4
   },
   {
-    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-07-31.md",
-    "title": "/blob/HEAD/digests/tech/2026-07-31.md",
-    "count": 1,
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/setup.md",
+    "title": "/blob/main/setup.md",
+    "count": 6,
     "uniques": 1
   },
   {
-    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-08-07.md",
-    "title": "/blob/HEAD/digests/tech/2026-08-07.md",
-    "count": 1,
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/index.js",
+    "title": "/blob/main/index.js",
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-09-01.md",
-    "title": "/blob/HEAD/digests/tech/2026-09-01.md",
-    "count": 1,
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/core.js",
+    "title": "/blob/main/core.js",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-09-11.md",
-    "title": "/blob/HEAD/digests/tech/2026-09-11.md",
-    "count": 1,
+    "path": "/Ali-Cheikh/nosey-agent/actions",
+    "title": "/actions",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-09-14.md",
-    "title": "/blob/HEAD/digests/tech/2026-09-14.md",
-    "count": 1,
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/readme.md",
+    "title": "/blob/main/readme.md",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/ali-cheikh/nosey-agent/blob/HEAD/digests/tech/2026-09-19.md",
-    "title": "/blob/HEAD/digests/tech/2026-09-19.md",
-    "count": 1,
+    "path": "/Ali-Cheikh/nosey-agent/actions/runs/40260341321/job/121371156272",
+    "title": "/actions/runs/40260341321/job/121371156272",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/actions/runs/40261474186/job/121374596063",
+    "title": "/actions/runs/40261474186/job/121374596063",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/actions/workflows/daily-digest.yml",
+    "title": "/actions/workflows/daily-digest.yml",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/nosey-agent/blob/main/digests/tech/2026-10-26.md",
+    "title": "/blob/main/digests/tech/2026-10-26.md",
+    "count": 2,
     "uniques": 1
   }
 ]
