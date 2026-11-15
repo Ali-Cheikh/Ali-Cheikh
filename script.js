@@ -95,7 +95,7 @@
         "Also shipped: Admin/CRM dashboard with auth and role-based access; habit-tracking app with calendar UI and notifications; API integration project (AI gateway, WhatsApp/Telegram/Discord bot, maps); scraper/data pipeline; e-commerce storefront with cart, checkout, and inventory sync."
       ],
       resumeFile: "Ali_Cheikh_CV_FullStack_Dev.pdf",
-      email: "contact@ali-cheikh.com",
+      email: "contact@alicheikh.tn",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Full-Stack Developer — Ships Production Systems End to End",
@@ -146,7 +146,7 @@
         "Also shipped: HR workflow tool (checklists, document collection, approvals); inventory tracking system with Sheets + Apps Script + ESP32; Google Workspace automation replacing manual data entry; ticketing/helpdesk system for internal IT support; access/permissions management tool."
       ],
       resumeFile: "Ali_Cheikh_CV_Systems_Admin.pdf",
-      email: "contact@ali-cheikh.com",
+      email: "contact@alicheikh.tn",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Systems Administrator & Business Automation Specialist",
@@ -192,7 +192,7 @@
         "Warehouse OCR System (Energen) — Label scanning and inventory registration using Tesseract.js and Google Apps Script; 80% reduction in manual data-entry workload."
       ],
       resumeFile: "Ali_Cheikh_Resume.pdf",
-      email: "contact@ali-cheikh.com",
+      email: "contact@alicheikh.tn",
       phoneDisplay: "+216 90 725 434",
       phoneHref: "+21690725434",
       metaTitle: "Ali Cheikh | Business Logistics Strategist & Systems Administrator",

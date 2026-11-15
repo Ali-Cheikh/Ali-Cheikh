@@ -8,7 +8,7 @@ I build practical digital products and teach young professionals how to build/us
 <div>
 
 ## Quick Highlights
-  <img align="right" src="https://www.ali-cheikh.com/img/hero.gif" alt="" width="120" />
+  <img align="right" src="https://www.alicheikh.tn/img/hero.gif" alt="" width="120" />
 </div>
 
 - Top 15 selected in **Live The Residency Delta** (2025) out of 1,500 applicants.
