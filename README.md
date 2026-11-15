@@ -32,15 +32,20 @@ Youth tech education: coding clubs, workshops, and hackathons.
 
 ### Experience Snapshot
 
-**Technical Co-Founder - BlooLabb** (2025-2026)  
-**Full Stack Developer - LingoLand / Lingoville** (Jun 2024 - Jan 2026)  
-**Software Developer Intern - BinetCom** (Jul 2024 - Sep 2024)  
-**Freelance Web Developer - Self-Employed** (2022 - Present)  
-**Tech Club Manager & Youth Mentor - Det Development** (Sep 2020 - Dec 2023)
+**IT & Recruitment Systems Administrator - TOGS .co** ( May 2026- Jun 2026) .  
+**Technical Co-Founder - BlooLabb** (2025-2026)  .
+**Full Stack Developer - LingoLand / Lingoville** (Jun 2024 - Jan 2026) .  
+**Software Developer Intern - BinetCom** (Jul 2024 - Sep 2024) .  
+**Full Stack Web Developer - Interning & Asked for** (2022 - Present)  .
+**Tech Club Manager & Youth Mentor - Det Development** (Sep 2020 - Dec 2023).
+
 
 </td>
 </tr>
 </table>
+
+- many not listed due: "i didn't really do much (was not challenging enough)"
+
 <p align="center">
 
 ---
@@ -48,10 +53,10 @@ Youth tech education: coding clubs, workshops, and hackathons.
 ## Projects
 
 **BlooLabb** - AI-powered learning platform for Tunisian youth.  
-**Translation OCR + LLM Debate System** - experimental OCR collaboration pipeline.  
+**Nosey** - AI RSS News Agent.  
+**Translation OCR + LLM Debate System** - experimental AI OCR collaboration pipeline.  
 **Warehouse OCR System (Energen)** - reduced manual search/input workload by around 80%.  
 **tccards.tn** - NFC digital business card solution.
-**Nosey** - AI RSS News Agent.
 
 </p>
 
