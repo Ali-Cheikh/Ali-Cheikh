@@ -1,13 +1,13 @@
 [
   {
-    "path": "/Ali-Cheikh/minecraft-server-whitelist/blob/main/src/payto.pdf",
-    "title": "/blob/main/src/payto.pdf",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/Ali-Cheikh/minecraft-server-whitelist/blob/main/README.md",
     "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Ali-Cheikh/minecraft-server-whitelist/blob/main/src/payto.pdf",
+    "title": "/blob/main/src/payto.pdf",
     "count": 1,
     "uniques": 1
   }
